@@ -1,7 +1,6 @@
 # Basic-Blocks-Of-Android-Application-Development
 For Developing any Android Application 9 Basic Blocks are used. I have Coded all 9 Blocks 
 
-
 9 Blocks are as Follow 
 
 Block 1) Text Bar
