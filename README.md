@@ -20,3 +20,6 @@ Block 7) Number Picker
 Block 8) Handeling Multiple Activities
 
 Block 9) Sending Message 
+
+
+All the codes are completed from Coursera Course named Android Application Development ( Projet Oriented )
